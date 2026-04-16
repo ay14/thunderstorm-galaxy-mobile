@@ -1,0 +1,21 @@
+{
+  "@@locale": "hi",
+  "appTitle": "MotoGenius",
+  "navProducts": "उत्पाद",
+  "navCart": "कार्ट",
+  "navInventory": "इन्वेंटरी",
+  "productInStock": "स्टॉक में है",
+  "productRunningLow": "कम हो रहा है",
+  "productOutOfStock": "स्टॉक खत्म",
+  "inventoryUpdateStock": "स्टॉक अपडेट करें",
+  "inventoryScanBarcode": "बारकोड स्कैन करें",
+  "inventoryLowStockAlert": "{product} का स्टॉक कम है",
+  "@inventoryLowStockAlert": {
+    "placeholders": { "product": { "type": "String" } }
+  },
+  "commonSearch": "उत्पाद खोजें...",
+  "commonSave": "सेव करें",
+  "commonCancel": "रद्द करें",
+  "commonConfirm": "क्या आप सुनिश्चित हैं?",
+  "commonUndo": "वापस लें"
+}

@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appTitle": "MotoGenius",
+  "navProducts": "Products",
+  "navCart": "Cart",
+  "navInventory": "Inventory",
+  "productInStock": "In Stock",
+  "productRunningLow": "Running Low",
+  "productOutOfStock": "Out of Stock",
+  "inventoryUpdateStock": "Update Stock",
+  "inventoryScanBarcode": "Scan Barcode",
+  "inventoryLowStockAlert": "Running low on {product}",
+  "@inventoryLowStockAlert": {
+    "placeholders": { "product": { "type": "String" } }
+  },
+  "commonSearch": "Search products...",
+  "commonSave": "Save",
+  "commonCancel": "Cancel",
+  "commonConfirm": "Are you sure?",
+  "commonUndo": "Undo"
+}
