@@ -1,4 +1,4 @@
-# ThunderBolt Mobile
+# ThunderStorm Galaxy Mobile
 
 Flutter app for store owners to manage inventory and monitor stock levels in real-time.
 
@@ -6,11 +6,11 @@ Flutter app for store owners to manage inventory and monitor stock levels in rea
 
 **Languages:** English, Hindi, French, Japanese, Spanish, Korean
 
-**Brand Colors:**
-- Primary: #005edf (Blue)
-- Secondary: #007eed (Blue-Green)
-- Accent: #00abc5 (Cyan)
-- Main: #662db5 (Purple)
+**Brand Colors (Cosmic Storm):**
+- Primary: #005edf (Blue - Storm Energy)
+- Secondary: #007eed (Blue-Green - Galaxy Waters)
+- Accent: #00abc5 (Cyan - Electric)
+- Main: #662db5 (Purple - Galaxy)
 
 ## Quick Start
 

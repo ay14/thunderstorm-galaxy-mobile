@@ -1,4 +1,4 @@
-# ThunderBolt Mobile — Flutter
+# ThunderStorm Galaxy Mobile — Flutter
 
 ## Dev Commands
 ```bash
