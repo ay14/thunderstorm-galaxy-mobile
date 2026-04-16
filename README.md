@@ -1,10 +1,16 @@
-# MotoGenius Mobile
+# ThunderBolt Mobile
 
 Flutter app for store owners to manage inventory and monitor stock levels in real-time.
 
 **Stack:** Flutter 3.13+ · Riverpod · Dio · GoRouter
 
 **Languages:** English, Hindi, French, Japanese, Spanish, Korean
+
+**Brand Colors:**
+- Primary: #005edf (Blue)
+- Secondary: #007eed (Blue-Green)
+- Accent: #00abc5 (Cyan)
+- Main: #662db5 (Purple)
 
 ## Quick Start
 

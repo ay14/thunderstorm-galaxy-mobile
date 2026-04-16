@@ -1,5 +1,5 @@
-name: motogenius_mobile
-description: "MotoGenius - Flutter mobile app for store owners"
+name: thunderbolt_mobile
+description: "ThunderBolt - Flutter mobile app for store owners"
 publish_to: 'none'
 
 version: 1.0.0+1
