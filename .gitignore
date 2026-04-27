@@ -60,6 +60,10 @@ app.*.map.json
 **/macos/Flutter/Flutter.xcconfig
 **/macos/Flutter/GeneratedPluginRegistrant.swift
 
+# Build and tool directories
+/build/
+/.dart_tool/
+
 # Dependencies
 pubspec.lock
 .pub-cache/

@@ -1,0 +1,34 @@
+# Run after any change: dart run flutter_native_splash:create
+# To remove:           dart run flutter_native_splash:remove
+
+flutter_native_splash:
+
+  # ── Core ──────────────────────────────────────────────────────────────────
+  color: "#0D0D1A"                    # ThunderStorm Galaxy dark surface
+  image: lib/shared/assets/splash/main_splash_ts_galaxy.png
+  color_dark: "#0D0D1A"
+  image_dark: lib/shared/assets/splash/main_splash_ts_galaxy.png
+
+  # ── Android ───────────────────────────────────────────────────────────────
+  android: true
+  android_gravity: center
+
+  # Android 12+ adaptive icon splash
+  android_12:
+    color: "#0D0D1A"
+    image: lib/shared/assets/splash/main_splash_ts_galaxy.png
+    icon_background_color: "#0D0D1A"
+    color_dark: "#0D0D1A"
+    image_dark: lib/shared/assets/splash/main_splash_ts_galaxy.png
+    icon_background_color_dark: "#0D0D1A"
+
+  # ── iOS ───────────────────────────────────────────────────────────────────
+  ios: true
+  ios_content_mode: center
+
+  # ── Web ───────────────────────────────────────────────────────────────────
+  web: true
+  web_image_mode: center
+
+  # ── Full-screen (optional — hides status bar during splash) ───────────────
+  fullscreen: false
